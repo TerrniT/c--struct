@@ -1,0 +1,8 @@
+W:\Учеба и проекты\C#projects\лабораторные из методички\структуры\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+W:\Учеба и проекты\C#projects\лабораторные из методички\структуры\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+W:\Учеба и проекты\C#projects\лабораторные из методички\структуры\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+W:\Учеба и проекты\C#projects\лабораторные из методички\структуры\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+W:\Учеба и проекты\C#projects\лабораторные из методички\структуры\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+W:\Учеба и проекты\C#projects\лабораторные из методички\структуры\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+W:\Учеба и проекты\C#projects\лабораторные из методички\структуры\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+W:\Учеба и проекты\C#projects\лабораторные из методички\структуры\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
